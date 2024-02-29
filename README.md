@@ -11,9 +11,9 @@ Before you begin, ensure you have the following:
 - MongoDB installed and running
 
 Install required Python libraries:
-  ```
-  pip install pymongo matplotlib pandas
-  ```
+    ```
+    pip install pymongo matplotlib pandas
+    ```
 ## Contents
 1. Introduction to MongoDB
     - Brief overview of MongoDB
@@ -36,3 +36,16 @@ Install required Python libraries:
 7. Aggregations
     - Using aggregation pipelines for data transformations
     - Visualizing aggregation results with Matplotlib
+
+
+## Usage
+1. Clone the repository:
+    ```
+    git clone https://github.com/your-username/mongodb-tutorial.git
+    cd mongodb-tutorial
+    ```
+2. Open the Jupyter Notebook:
+    ```
+    jupyter notebook MongoDB_Tutorial.ipynb
+    ```
+3. Follow the step-by-step guide in the notebook to learn about MongoDB and explore its functions with Python.
