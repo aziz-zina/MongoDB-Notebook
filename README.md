@@ -49,3 +49,12 @@ Install required Python libraries:
     jupyter notebook MongoDB_Tutorial.ipynb
     ```
 3. Follow the step-by-step guide in the notebook to learn about MongoDB and explore its functions with Python.
+
+## Notes
+- Ensure your MongoDB server is running before executing the notebook.
+- Modify the connection details in the notebook based on your MongoDB setup.
+
+## Feedback
+If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+Happy coding!"
