@@ -17,28 +17,22 @@ Install required Python libraries:
 ## Contents
 1. Introduction to MongoDB
     - Brief overview of MongoDB
-    - 
 2. Installation and setup
-   
 3. Connecting to MongoDB with pymongo
     - Establishing a connection
     - Creating and selecting a database
     - Creating collections and documents
-
 4. CRUD Operations
-  - Inserting documents
-  - querying documents
-  - updating documents
-  - deleting documents
-
+    - Inserting documents
+    - querying documents
+    - updating documents
+    - deleting documents
 5. Indexes
     - Creating single and compound indexes
-    - Using indexes for query optimization
-      
+    - Using indexes for query optimization   
 6. Views
     - Creating views based on aggregation pipelines
-    - Working with virtual collections
-      
+    - Working with virtual collections      
 7. Aggregations
     - Using aggregation pipelines for data transformations
     - Visualizing aggregation results with Matplotlib
