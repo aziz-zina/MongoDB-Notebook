@@ -57,4 +57,5 @@ Install required Python libraries:
 ## Feedback
 If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-Happy coding!"
+Happy coding!" 🚀
+ 
